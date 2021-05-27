@@ -7,6 +7,8 @@
 - 🖥️  I’m currently working on a Front-end website
 - 🖥️  I’m currently learning Rust & Go
 - 🖥️  For contact you can connect me on: `Discord: rp#0004` or `Email: rpskid@protonmail.ch`
+- 🖥️  I’m 17 years old
+- 🖥️  I come from Groningen, The Netherlands.
 
 <h2 align="left"> 🙋‍♂️ What I use & do. </h2>
 <table>
