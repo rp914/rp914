@@ -8,7 +8,7 @@
 - ❗ I’m currently learning Rust & Go
 - ❗ For contact you can connect me on: `Discord: rp#0004` or `Email: rpskid@protonmail.ch`
 
-<h2 align="left"> What I use & do. </h2>
+<h2 align="left"> 🙋‍♂️ What I use & do. </h2>
 <table>
     <tbody>
         <tr>
