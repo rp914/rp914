@@ -45,9 +45,5 @@
                         src="https://img.icons8.com/color/48/000000/windows-10" /></a>
             </td>
         </tr>
-        <tr>
-            <td><a href="#"><img alt="Golang" title="Golang" height="28px"
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" /></a>
-        </tr>
     </tbody>
 </table>
