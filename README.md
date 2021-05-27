@@ -3,8 +3,6 @@
 <h3 align="center">Here you will see my future projects (Languages could be switched up, there is no certain main language I will post here. ), Thanks for visiting my account.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rp0x1&" alt="rp0x1" /> </p>
-- 🖥️  I’m 17 years old
-- 🖥️  I come from Groningen, The Netherlands.
 - 🖥️  I’m currently working on a Front-end website
 - 🖥️  I’m currently learning Rust & Go
 - 🖥️  For contact you can connect me on: `Discord: rp#0004` or `Email: rpskid@protonmail.ch`
